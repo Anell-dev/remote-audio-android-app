@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AudioRemoto</string>
+    <string name="welcome_message">
+    🎶 ¡Bienvenido a Audio Remoto! 🎶\n
+    Descubre una nueva forma de conectarte con el sonido. Con nuestra aplicación, puedes acceder a tu música, podcasts y audiolibros favoritos desde cualquier lugar del mundo.\n\n
+    🎧 Características destacadas:\n
+    • 🔊 Calidad de sonido excepcional: Disfruta de audio cristalino sin importar dónde estés.\n
+    • 🌍 Acceso remoto: Conéctate a tus dispositivos de audio desde cualquier parte del mundo.\n
+    • 📱 Interfaz intuitiva: Fácil de usar, diseñada pensando en ti.\n
+    • 💾 Almacenamiento en la nube: Guarda y accede a tus archivos de audio en la nube.\n\n
+    ¡Empieza tu experiencia auditiva única con Audio Remoto ahora mismo! 🚀
+</string>
+    <string name="titleAbout">Bienvenido a la App Audio Remoto!</string>
+    <string name="textButton">Comenzar Ya!</string>
+    W
+    <string name="textFieldText">Proporcione la URL!</string>
+    <string name="start_party_description">
+        ¡Bienvenido a la mejor fiesta virtual del año!
+        Prepara tus mejores movimientos y reúne a tus amigos.
+        Para unirte a esta increíble experiencia, ingresa la URL a continuación y deja que la diversión comience. ¡No te lo pierdas!
+    </string>
+    <string name="enter_url_instruction">
+        Para comenzar, por favor ingresa la URL en el campo de abajo y prepárate para una experiencia increíble.
+        ¡Vamos, no esperes más, la fiesta te está esperando! 🎉✨
+    </string>
+    <string name="iniciarProceso">Comienza Escuhar Ya!</string>
+
+
+</resources>
